@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/libts.so
+./usr/lib/libts.so.0
+./usr/lib/libts.so.0.9.0
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/tslib.pc
+./usr/include
+./usr/include/tslib.h
+./host

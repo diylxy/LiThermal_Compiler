@@ -1,0 +1,7 @@
+./
+./usr
+./usr/lib
+./usr/lib/libota-burnboot.so
+./usr/include
+./usr/include/OTA_BurnBoot.h
+./host

@@ -1,0 +1,8 @@
+./
+./usr
+./usr/lib
+./usr/lib/libuapi.so
+./usr/include
+./usr/include/videoOutPort.h
+./usr/include/ion_mem_alloc.h
+./host

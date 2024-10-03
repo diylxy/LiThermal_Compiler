@@ -1,0 +1,9 @@
+libc.so
+libgcc_s.so.1
+libgomp.so
+libgomp.so.1
+libgomp.so.1.0.0
+libstdc++.so.6
+libstdc++.so.6.0.22
+libstdc++.so.6.0.22-gdb.py
+libusb-gadget.so

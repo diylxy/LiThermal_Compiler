@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libevdev
+Description: Handler library for evdev events
+Version: 1.4.6
+Cflags: -I${includedir}/libevdev-1.0/
+Libs: -L${libdir} -levdev

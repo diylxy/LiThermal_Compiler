@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Pango Cairo
+Description: Cairo rendering support for Pango
+Version: 1.40.3
+Requires: pango cairo
+Requires.private:  pangoft2
+Libs: -L${libdir} -lpangocairo-1.0
+Cflags: -I${includedir}/pango-1.0

@@ -1,0 +1,14 @@
+libc.so
+libgcc_s.so.1
+libgomp.so
+libgomp.so.1
+libgomp.so.1.0.0
+libpam.so
+libpam.so.0
+libpam.so.0.84.1
+libpam_misc.so
+libpam_misc.so.0
+libpam_misc.so.0.82.1
+libpamc.so
+libpamc.so.0
+libpamc.so.0.82.1

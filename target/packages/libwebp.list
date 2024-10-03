@@ -1,0 +1,15 @@
+./
+./usr
+./usr/lib
+./usr/lib/libwebp.a
+./usr/lib/libwebp.so.5.0.3
+./usr/lib/libwebp.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libwebp.pc
+./usr/lib/libwebp.so.5
+./usr/include
+./usr/include/webp
+./usr/include/webp/types.h
+./usr/include/webp/decode.h
+./usr/include/webp/encode.h
+./host

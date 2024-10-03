@@ -1,0 +1,17 @@
+libc.so
+libgcc_s.so.1
+libgomp.so
+libgomp.so.1
+libgomp.so.1.0.0
+libjpeg.so.9
+libjpeg.so.9.1.0
+libpng.so.3
+libpng.so.3.56.0
+libpng12.so.0
+libpng12.so.0.56.0
+libwebp.so
+libwebp.so.5
+libwebp.so.5.0.3
+libz.so
+libz.so.1
+libz.so.1.2.8

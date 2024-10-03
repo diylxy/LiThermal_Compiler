@@ -1,0 +1,16 @@
+./
+./usr
+./usr/bin
+./usr/bin/mtdev-test
+./usr/lib
+./usr/lib/libmtdev.so.1
+./usr/lib/libmtdev.so.1.0.0
+./usr/lib/libmtdev.so
+./usr/lib/libmtdev.a
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/mtdev.pc
+./usr/include
+./usr/include/mtdev-mapping.h
+./usr/include/mtdev-plumbing.h
+./usr/include/mtdev.h
+./host

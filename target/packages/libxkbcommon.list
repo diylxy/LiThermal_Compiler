@@ -1,0 +1,17 @@
+./
+./usr
+./usr/lib
+./usr/lib/libxkbcommon.a
+./usr/lib/libxkbcommon.so.0.0.0
+./usr/lib/libxkbcommon.so
+./usr/lib/libxkbcommon.so.0
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/xkbcommon.pc
+./usr/include
+./usr/include/xkbcommon
+./usr/include/xkbcommon/xkbcommon-keysyms.h
+./usr/include/xkbcommon/xkbcommon-names.h
+./usr/include/xkbcommon/xkbcommon-compose.h
+./usr/include/xkbcommon/xkbcommon-compat.h
+./usr/include/xkbcommon/xkbcommon.h
+./host

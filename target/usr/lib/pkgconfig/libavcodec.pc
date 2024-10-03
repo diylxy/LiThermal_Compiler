@@ -1,0 +1,14 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 58.134.100
+Requires: 
+Requires.private: libswresample >= 3.9.100, libavutil >= 56.70.100
+Conflicts:
+Libs: -L${libdir}  -lavcodec 
+Libs.private: -pthread -lm -L/home/lxy/Desktop/tina-sdk/out/t113-100ask/staging_dir/target/usr/lib -lz -L/home/lxy/Desktop/tina-sdk/out/t113-100ask/staging_dir/target/usr/lib -lfdk-aac
+Cflags: -I${includedir}

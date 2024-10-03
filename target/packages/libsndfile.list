@@ -1,0 +1,12 @@
+./
+./usr
+./usr/lib
+./usr/lib/libsndfile.so
+./usr/lib/libsndfile.so.1.0.28
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/sndfile.pc
+./usr/lib/libsndfile.so.1
+./usr/include
+./usr/include/sndfile.hh
+./usr/include/sndfile.h
+./host

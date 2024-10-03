@@ -1,0 +1,9 @@
+./
+./lib
+./lib/libbtmg.so
+./usr
+./usr/include
+./usr/include/bt_log.h
+./usr/include/bt_manager.h
+./usr/includ
+./host

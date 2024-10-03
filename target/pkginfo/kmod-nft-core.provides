@@ -1,0 +1,17 @@
+nf_conntrack.ko
+nf_defrag_ipv4.ko
+nf_defrag_ipv6.ko
+nf_reject_ipv4.ko
+nf_reject_ipv6.ko
+nf_tables.ko
+nfnetlink.ko
+nft_counter.ko
+nft_ct.ko
+nft_hash.ko
+nft_limit.ko
+nft_log.ko
+nft_redir.ko
+nft_reject.ko
+nft_reject_inet.ko
+nft_reject_ipv4.ko
+nft_reject_ipv6.ko

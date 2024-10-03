@@ -1,0 +1,13 @@
+./
+./usr
+./usr/lib
+./usr/lib/libexpat.so.1.6.0
+./usr/lib/libexpat.so.1
+./usr/lib/libexpat.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/expat.pc
+./usr/lib/libexpat.a
+./usr/include
+./usr/include/expat.h
+./usr/include/expat_external.h
+./host

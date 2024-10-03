@@ -1,0 +1,6 @@
+Name: udev
+Description: eudev
+Version: 243
+prefix=/usr
+exec_prefix=
+udevdir=${exec_prefix}/lib/udev

@@ -1,0 +1,3 @@
+[submodule "LiThermal"]
+	path = LiThermal
+	url = https://github.com/diylxy/LiThermal.git

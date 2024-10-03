@@ -1,0 +1,7 @@
+./
+./usr
+./usr/lib
+./usr/lib/libcamapi.so
+./usr/include
+./usr/include/CameraInterface.h
+./host

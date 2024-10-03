@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libcap
+Description: libcap - linux capabilities library
+Version: 2.51
+Libs: -L${libdir} -lcap
+Libs.private: 
+Cflags: -I${includedir}

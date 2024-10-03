@@ -1,0 +1,14 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libavformat
+Description: FFmpeg container format library
+Version: 58.76.100
+Requires: 
+Requires.private: libavcodec >= 58.134.100, libswresample >= 3.9.100, libavutil >= 56.70.100
+Conflicts:
+Libs: -L${libdir}  -lavformat 
+Libs.private: -lm -lbz2 -L/home/lxy/Desktop/tina-sdk/out/t113-100ask/staging_dir/target/usr/lib -lz -L/home/lxy/Desktop/tina-sdk/out/t113-100ask/staging_dir/target/usr/lib -lgnutls
+Cflags: -I${includedir}

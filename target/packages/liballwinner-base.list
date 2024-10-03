@@ -1,0 +1,10 @@
+./
+./lib
+./lib/libawbase.so
+./usr
+./usr/include
+./usr/include/locker.h
+./usr/include/tina_log.h
+./usr/include/taskbase.h
+./usr/include/thread.h
+./host

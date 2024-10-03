@@ -1,0 +1,14 @@
+./
+./usr
+./usr/lib
+./usr/lib/libconfig.so.9
+./usr/lib/libconfig.so.9.1.3
+./usr/lib/libconfig.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libconfig.pc
+./usr/info
+./usr/info/dir
+./usr/info/libconfig.info
+./usr/include
+./usr/include/libconfig.h
+./host

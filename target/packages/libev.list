@@ -1,0 +1,12 @@
+./
+./usr
+./usr/lib
+./usr/lib/libev.so.4
+./usr/lib/libev.a
+./usr/lib/libev.so
+./usr/lib/libev.so.4.0.0
+./usr/include
+./usr/include/event.h
+./usr/include/ev.h
+./usr/include/ev++.h
+./host

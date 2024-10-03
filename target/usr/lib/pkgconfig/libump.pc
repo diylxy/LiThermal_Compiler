@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libump
+Description: ARMs unified memory provider library
+Version: 3.0
+Cflags: -I${includedir}/ump
+Libs: -L${libdir} -lUMP

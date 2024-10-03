@@ -1,0 +1,11 @@
+libc.so
+libgcc_s.so.1
+libgomp.so
+libgomp.so.1
+libgomp.so.1.0.0
+libpcre.so
+libpcre.so.1
+libpcre.so.1.2.6
+libpcre32.so
+libpcreposix.so.0
+libpcreposix.so.0.0.3

@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/libx264.so.157
+./usr/lib/libx264.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/x264.pc
+./usr/include
+./usr/include/x264.h
+./usr/include/x264_config.h
+./host

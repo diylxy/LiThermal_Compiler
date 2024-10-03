@@ -1,0 +1,16 @@
+./
+./usr
+./usr/lib
+./usr/lib/libfdk-aac.so
+./usr/lib/libfdk-aac.so.1.0.1
+./usr/lib/libfdk-aac.so.1
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/fdk-aac.pc
+./usr/include
+./usr/include/fdk-aac
+./usr/include/fdk-aac/machine_type.h
+./usr/include/fdk-aac/genericStds.h
+./usr/include/fdk-aac/FDK_audio.h
+./usr/include/fdk-aac/aacdecoder_lib.h
+./usr/include/fdk-aac/aacenc_lib.h
+./host

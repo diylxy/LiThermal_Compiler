@@ -1,0 +1,10 @@
+libblobmsg_json.so
+libc.so
+libgcc_s.so.1
+libgomp.so
+libgomp.so.1
+libgomp.so.1.0.0
+libjson-c.so.4
+libjson-c.so.4.0.0
+libubox.so
+libubus.so

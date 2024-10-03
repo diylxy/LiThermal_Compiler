@@ -1,0 +1,16 @@
+./
+./lib
+./lib/libwifimg.so
+./usr
+./usr/include
+./usr/include/wpa_supplicant_conf.h
+./usr/include/tool.h
+./usr/include/wifi_udhcpc.h
+./usr/include/wifi_event.h
+./usr/include/scan.h
+./usr/include/wifi.h
+./usr/include/wpa_ctrl.h
+./usr/include/wifi_intf.h
+./usr/include/wmg_debug.h
+./usr/include/status_info.h
+./host

@@ -1,0 +1,11 @@
+./
+./usr
+./usr/lib
+./usr/lib/libinput.so.10
+./usr/lib/libinput.so.10.10.1
+./usr/lib/libinput.so
+./usr/lib/pkgconfig
+./usr/lib/pkgconfig/libinput.pc
+./usr/include
+./usr/include/libinput.h
+./host
