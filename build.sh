@@ -20,7 +20,7 @@ make -j`nproc`
 $ROOTPATH/toolchain-sunxi-musl/toolchain/bin/arm-openwrt-linux-gcc -o $ROOTPATH/build/BSOD $ROOTPATH/LiThermal/tools/BSOD.c
 
 # Get all compiled files
-if [ ! -d $ROOTPATH/LiThermal ]; then
+if [ ! -d $ROOTPATH/UDISK ]; then
     mkdir $ROOTPATH/UDISK
 fi
 cp $ROOTPATH/build/LiThermal $ROOTPATH/UDISK
