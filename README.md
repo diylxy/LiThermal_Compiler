@@ -7,8 +7,31 @@
 **注意**：如果使用Actions编译的tar文件，则需要先解压出UDISK文件夹。  
 ## [最新代码的Github Actions编译结果点这里](https://github.com/diylxy/LiThermal_Compiler/actions)
 ## 手动编译教程
+安装依赖  
+```bash
+sudo apt install cmake make
+```
+拉取代码和编译工具链  
 ```bash
 git clone --recursive https://github.com/diylxy/LiThermal_Compiler.git
+cd LiThermal_Compiler
+```
+编译  
+```bash
 ./build.sh
 ```
-**注意**：build.sh**必须**在本仓库根目录下执行。build.sh会通过git pull同步最新代码，如不需要请先删去或注释相关代码。
+**注意**：`build.sh`**必须**在本仓库根目录下执行。  
+**注意**：如果你对代码进行了修改，请**删去**`build.sh`中的以下内容，以免你修改的代码被覆盖  
+```bash
+if [ -d $ROOTPATH/LiThermal ]; then
+    echo "Updating..."
+    git submodule update --init --recursive
+    cd LiThermal
+    git checkout master
+    git pull origin master
+    cd ..
+else
+    echo "Folder not exist, cloning..."
+    git clone https://github.com/diylxy/LiThermal.git
+fi
+```

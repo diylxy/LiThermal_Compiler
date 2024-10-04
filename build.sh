@@ -2,8 +2,10 @@
 ROOTPATH=`pwd`
 if [ -d $ROOTPATH/LiThermal ]; then
     echo "Updating..."
+    git submodule update --init --recursive
     cd LiThermal
-    git pull
+    git checkout master
+    git pull origin master
     cd ..
 else
     echo "Folder not exist, cloning..."
