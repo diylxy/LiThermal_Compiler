@@ -1,4 +1,5 @@
 # LiThermal 热成像相机编译工具链
+[![Make project](https://github.com/diylxy/LiThermal_Compiler/actions/workflows/makeProject.yml/badge.svg)](https://github.com/diylxy/LiThermal_Compiler/actions/workflows/makeProject.yml)  
 用于LiThermal 热成像相机的编译工具链和编译所需的staging_dir文件。  
 如果有报错，建议使用Ubuntu 22.04 LTS或以下版本编译。
 ## 编译后的操作
