@@ -9,7 +9,7 @@
 编译完成后，把产生的UDISK文件夹内的**所有文件**复制到USB MTP设备（指的是在热成像相机启动后电脑识别到的USB设备，不是烧录固件后通过TF卡读卡器读出的可见分区）的根目录下。  
 **注意**：要复制**文件夹内的所有文件**，而不是连带文件夹一起复制过去。  
 **注意**：如果使用Actions编译的tar文件，则需要先解压出UDISK文件夹。  
-## [最新代码的Github Actions编译结果点这里](https://github.com/diylxy/LiThermal_Compiler/actions)
+## [最新代码的Github Actions编译结果点这里](https://github.com/diylxy/LiThermal_Compiler/actions/workflows/makeProject.yml)
 ## 手动编译教程
 安装依赖  
 ```bash
