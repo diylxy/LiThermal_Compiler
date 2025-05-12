@@ -3,6 +3,7 @@
 如果有报错，建议使用Ubuntu 22.04 LTS或以下版本编译。  
 ## 最新版下载
 [![Make project](https://github.com/diylxy/LiThermal_Compiler/actions/workflows/makeProject.yml/badge.svg)](https://github.com/diylxy/LiThermal_Compiler/actions/workflows/makeProject.yml)  
+**近期发现Github Actions的二进制文件只有90天有效期，因此发布新版本到[Release](https://github.com/diylxy/LiThermal_Compiler/releases)）**  
 最新构建结果点上面那个Make Project，打开后打开最新（最上面）那个，在底下`Artifacts`里有个`UDISK.tar`，下载后得到`UDISK.tar.zip`，解压缩2次，直到得到1个文件夹UDISK，里面包含3个文件，把这3个文件复制到相机的MTP设备中（经测试，不需要killall等其它操作），之后长按电源键重启相机。  
 ## 下面内容供开发人员参考，也是旧版说明，如有不一致的地方，以上面的为准
 ## 编译后的操作
